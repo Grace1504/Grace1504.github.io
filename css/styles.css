@@ -1,0 +1,116 @@
+.left-col{
+	background-color: #003170;
+	color: white;
+	text-align: center;
+
+}
+
+a{ 
+letter-spacing: 2px;
+color: #53c3c4;
+  font-size: 18px; 
+  text-decoration: none;
+  font-weight: bold;
+}
+.left-col .right-col{
+	color: #fff;
+	text-align: center;
+	height: 90vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.top-container{
+	width: 500px;
+	margin: 0 auto;
+}
+
+h1{ font-size: 150px;
+font-weight: normal;
+margin: 0; }
+.right-col{
+	background-color: #75e3dd;
+}
+
+h4{
+	font-size: 32px;
+	color: #16736e;
+	 background:#75e3dd;
+	 display: inline-block;
+	 margin: 0px;
+	 padding: 4px;
+
+}
+h2{
+	font-size: 100px;
+}
+
+h3{
+	font-size: 50px;
+}
+
+.works h3{
+	color: #0e726f;
+}
+.myteam h3{
+	color: #f3747b;
+}
+.works{
+	color: #4dc2bd;
+}
+.myteam{
+	color:  #003170;
+}
+
+.contact{
+	 color: #f3747b;
+}
+.scroll{
+	text-align: center;
+	color: #4dc2bd;
+}
+img{ 
+	max-width: 100%;
+ }
+
+ footer{
+ 	background-color: #f5979c;
+ }
+ .social-icon{
+ 	height: 60px
+ }
+ body{
+ 	margin: 0px;
+ 	padding: 0px;
+ 	font-family: 'Inconsolata', monospace;
+ }
+ html{
+ 	height: 100%;
+ }
+ .social-icon{
+ 	height: 60px;
+ 	width: 10px 30px;
+ }
+ .social-icon-container{
+ 	text-align: center;
+ }
+ h1,h2,h3,h4,h5{
+ 	font-family: 'Prata', serif;
+ }
+ nav{
+ 
+ 	font-family: 'Prata', serif;
+ 	font-size: 22px;
+  color: #27bcb8
+
+ }
+
+ .works-img{
+ 	position: relative;
+ 	width: 100%;
+ }
+ .work h4{
+ 	position: absolute;
+ 	z-index: 1;
+ 	top: -25px;
+ }
